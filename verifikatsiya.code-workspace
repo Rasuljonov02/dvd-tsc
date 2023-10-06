@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/dars/verifikatsiya"
+		},
+		{
+			"path": "../Desktop/dars/node_modules"
+		},
+		{
+			"path": "../Desktop/dars/public"
+		},
+		{
+			"path": "../Desktop/dars/src"
+		}
+	],
+	"settings": {}
+}
